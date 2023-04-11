@@ -1,0 +1,47 @@
+The background-color property is used to set the background color of the body element to #233438.
+
+css
+Copy code
+body {
+	background-color: #233438;
+}
+Setting the text color
+The color property is used to set the text color of the body element to whitesmoke.
+
+css
+Copy code
+body {
+	color: whitesmoke;
+}
+Setting the font family
+The font-family property is used to set the font family of the body element to courier, monospace.
+
+css
+Copy code
+body {
+	font-family: courier, monospace;
+}
+Creating a heading
+
+The h1 element is used to create a heading with the text "DO WE HAVE A HEADING?", which is centered using CSS.
+
+html
+Copy code
+<h1>
+	DO WE HAVE A HEADING? 
+</h1>
+css
+Copy code
+h1 {
+	text-align: center;
+	font-size: 36px;
+	margin-top: 50px;
+}
+Creating a paragraph
+The p element is used to create a paragraph with the text "I AM 1000 WORDS INTO MY DISS, AND I AM MAKING A WEBSITE FOR SOME REASON?".
+
+html
+Copy code
+<p>
+	I AM 1000 WORDS INTO MY DISS, AND I AM MAKING A WEBSITE FOR SOME REASON?
+</p>
